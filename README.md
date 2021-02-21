@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![polkaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=polkaa)](https://github.com/anuraghazra/github-readme-stats)
+[![polkaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=polkaa&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=polkaa&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=polkaa&layout=compact&theme=onedark" />
 </a>
