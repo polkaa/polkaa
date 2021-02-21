@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 📫 How to reach me?
+- [LinkedIn](https://www.linkedin.com/in/p-kong/)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=polkaa&show_icons=true&include_all_commits=true&theme=onedark" alt="polkaa's GitHub stats" />
 </a>
